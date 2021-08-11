@@ -62,7 +62,8 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:svn:https://github.com/anhuynh1808/sfg-pet-clinic.git</developerConnection>
+		<url>https://github.com/anhuynh1808/sfg-pet-clinic</url>
+		<connection>scm:git:https://github.com/anhuynh1808/sfg-pet-clinic.git</connection>
 	  <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
