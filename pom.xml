@@ -62,7 +62,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:anhuynh1808/sfg-di.git</developerConnection>
+		<developerConnection>scm:git:ssh:git@github.com:anhuynh1808/sfg-pet-clinic.git</developerConnection>
 	  <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
